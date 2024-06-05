@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-📫 How to reach me: [telegram](https://t.me/Destiinyyy), Mail: nikitazotov237@gmail.com
+How to reach me: just send email to nikitazotov237@gmail.com
+My Education: 3rd year student 09.03.02 Information systems and technologies
 
 <!--
 **Destiiny237/Destiiny237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
