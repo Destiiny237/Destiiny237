@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-How to reach me: just send email to nikitazotov237@gmail.com.
+How to reach me: just send email to nikitazotov237@gmail.com.<br>
 My Education: 3rd year student 09.03.02 Information systems and technologies.
 
 <!--
